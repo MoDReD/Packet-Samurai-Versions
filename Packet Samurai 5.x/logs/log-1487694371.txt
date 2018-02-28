@@ -1,0 +1,33 @@
+Loaded protocol [Chat_4.0.x] from (Chat_4.0.x.xml)
+Loading Client strings... Please wait.
+Loaded 344863 strings.
+Loaded protocol [Game_5.0.x] from (Game_5.0.x.xml)
+Loaded protocol [Login_4.0.x] from (Login_4.0.x.xml)
+--------------------------------------------[ Network ]--------------------------------------------
+System [Network] - Successfully opened device (Realtek PCIe GBE Family Controller).
+System [Network] - Sniffing with filter: (tcp port 10241) or (tcp port 7777) or (tcp port 2106)
+System [Network] - Sniffing on port(s): 10241 7777 2106
+Size of NpcSkills: 14864
+Size of collected_npc_data: 24029
+Loaded: 48 towns witn 176spawns
+Loaded: 79420npc templates
+Started to log new Session (ID: 104162760)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 11, dir:serverPacket)
+ClientPacket id: 0012 of timestamp + 312ms has this error msg:Missing Format
+LoginCrypter : Wrong checksum (packet id: 3, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 384837068)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 2077ms has this error msg:Missing Format
+Started to log new Session (ID: 104249106)
+LoginCrypter : Wrong checksum (packet id: 8, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 12, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 2, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 384977054)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 853ms has this error msg:Missing Format

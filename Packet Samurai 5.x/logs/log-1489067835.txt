@@ -1,0 +1,72 @@
+Loaded protocol [Chat_4.0.x] from (Chat_4.0.x.xml)
+Loading Client strings... Please wait.
+Loaded 344863 strings.
+Loaded protocol [Game_5.0.x] from (Game_5.0.x.xml)
+Loaded protocol [Login_4.0.x] from (Login_4.0.x.xml)
+--------------------------------------------[ Network ]--------------------------------------------
+System [Network] - Successfully opened device (Realtek PCIe GBE Family Controller).
+System [Network] - Sniffing with filter: (tcp port 10241) or (tcp port 7777) or (tcp port 2106)
+System [Network] - Sniffing on port(s): 10241 7777 2106
+Size of NpcSkills: 14864
+Size of collected_npc_data: 24029
+Loaded: 48 towns witn 176spawns
+Loaded: 79420npc templates
+Started to log new Session (ID: 125151156)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 11, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 1, dir:serverPacket)
+Started to log new Session (ID: 125226972)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 3, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 2, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 462505967)
+Invalid Static Client Packet Code!!!
+No key found...
+ClientPacket id: 000B of timestamp + 584ms has this error msg:Missing Format
+ClientPacket id: 000F of timestamp + 584ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 0031 of timestamp + 620ms has this error msg:Missing Format
+ClientPacket id: 00B3 of timestamp + 646ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 00A7 of timestamp + 646ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 00CE of timestamp + 646ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 009B of timestamp + 646ms has this error msg:Missing Format
+ClientPacket id: 0088 of timestamp + 678ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 0068 of timestamp + 678ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 00CC of timestamp + 818ms has this error msg:Missing Format
+ClientPacket id: 003B of timestamp + 847ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 00AA of timestamp + 847ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 00B6 of timestamp + 847ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 00EB of timestamp + 872ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 0069 of timestamp + 872ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 0012 of timestamp + 1030ms has this error msg:Missing Format
+ClientPacket id: 0048 of timestamp + 2198ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 003E of timestamp + 2198ms has this error msg:Missing Format
+ClientPacket id: 0083 of timestamp + 2229ms has this error msg:Missing Format
+Invalid Static Client Packet Code!!!
+No key found...
+Server Packet id: 0022 of timestamp + 2279ms has this error msg:Missing Format

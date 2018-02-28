@@ -1,0 +1,110 @@
+Loaded protocol [Chat_4.0.x] from (Chat_4.0.x.xml)
+Loading Client strings... Please wait.
+Loaded 344863 strings.
+Loaded protocol [Game_5.0.x] from (Game_5.0.x.xml)
+Loaded protocol [Login_4.0.x] from (Login_4.0.x.xml)
+--------------------------------------------[ Network ]--------------------------------------------
+System [Network] - Successfully opened device (Realtek PCIe GBE Family Controller).
+System [Network] - Sniffing with filter: (tcp port 10241) or (tcp port 7777) or (tcp port 2106)
+System [Network] - Sniffing on port(s): 10241 7777 2106
+Size of NpcSkills: 14864
+Size of collected_npc_data: 24029
+Loaded: 48 towns witn 176spawns
+Loaded: 79420npc templates
+Started to log new Session (ID: 111194694)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 11, dir:serverPacket)
+ClientPacket id: 0012 of timestamp + 314ms has this error msg:Missing Format
+LoginCrypter : Wrong checksum (packet id: 3, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 410648931)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 863ms has this error msg:Missing Format
+Started to log new Session (ID: 111333690)
+LoginCrypter : Wrong checksum (packet id: 12, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 2, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 411154436)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 1048ms has this error msg:Missing Format
+Started to log new Session (ID: 112972158)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 11, dir:serverPacket)
+ClientPacket id: 0012 of timestamp + 365ms has this error msg:Missing Format
+LoginCrypter : Wrong checksum (packet id: 3, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+ERROR: Parsing packet (SM_SERVER_LIST), insuficient data for the specified format. Please verify the format.
+Server Packet id: 0009 of timestamp + 668ms has this error msg:Insuficient data for the specified format
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 417228273)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 1466ms has this error msg:Missing Format
+Started to log new Session (ID: 113111154)
+LoginCrypter : Wrong checksum (packet id: 8, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 12, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+ERROR: Parsing packet (SM_SERVER_LIST), insuficient data for the specified format. Please verify the format.
+Server Packet id: 0009 of timestamp + 408ms has this error msg:Insuficient data for the specified format
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 417788217)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 1982ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 102087ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 102087ms has this error msg:Missing Format
+Server Packet id: 005D of timestamp + 103075ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 103075ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 103525ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 103525ms has this error msg:Missing Format
+Server Packet id: 0046 of timestamp + 103525ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 103525ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 103525ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 103525ms has this error msg:Missing Format
+Server Packet id: 0049 of timestamp + 103526ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 110757ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0058 of timestamp + 113950ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 114008ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 114472ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 114472ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0028 of timestamp + 114908ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 114908ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 115287ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 115288ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 115436ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 115436ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 115436ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 115488ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 115687ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 115886ms has this error msg:Missing Format
+Server Packet id: 0043 of timestamp + 116249ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0038 of timestamp + 116399ms has this error msg:Insuficient data for the specified format
+New npc data: NpcStat [npcId=833257, lvl=70, hp=14851, titleId=0, npcType=38]
+npc: 833257 changed Hp from 12139 to 14851
+npc: 833257 changed level from 67 to 70
+New npc data: NpcStat [npcId=806000, lvl=80, hp=169133, titleId=358072, npcType=38]
+npc: 806000 changed Hp from 194502 to 169133
+Started to log new Session (ID: 551109174)
+ClientPacket id: 0012 of timestamp + 408975ms has this error msg:Missing Format
+Server Packet id: 004D of timestamp + 547633ms has this error msg:Missing Format
+done in: 22 ms
+done in: 13 ms
+done in: 4 ms
+done in: 3 ms
+done in: 3 ms
+done in: 3 ms
+done in: 3 ms
+done in: 94 ms
+done in: 4 ms
+done in: 2 ms
+done in: 4 ms

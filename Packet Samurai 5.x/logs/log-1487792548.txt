@@ -1,0 +1,513 @@
+Loaded protocol [Chat_4.0.x] from (Chat_4.0.x.xml)
+Loading Client strings... Please wait.
+Loaded 344863 strings.
+Loaded protocol [Game_5.0.x] from (Game_5.0.x.xml)
+Loaded protocol [Login_4.0.x] from (Login_4.0.x.xml)
+--------------------------------------------[ Network ]--------------------------------------------
+System [Network] - Successfully opened device (Realtek PCIe GBE Family Controller).
+System [Network] - Sniffing with filter: (tcp port 10241) or (tcp port 7777) or (tcp port 2106)
+System [Network] - Sniffing on port(s): 10241 7777 2106
+Size of NpcSkills: 14864
+Size of collected_npc_data: 24029
+Loaded: 48 towns witn 176spawns
+Loaded: 79420npc templates
+Started to log new Session (ID: 136574100)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 11, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 18, dir:clientPacket)
+ClientPacket id: 0012 of timestamp + 739ms has this error msg:Missing Format
+LoginCrypter : Wrong checksum (packet id: 3, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 2, dir:clientPacket)
+Started to log new Session (ID: 504346227)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 850ms has this error msg:Missing Format
+Started to log new Session (ID: 136605690)
+LoginCrypter : Wrong checksum (packet id: 12, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 504493990)
+Invalid Static Client Packet Code!!!
+Server Packet id: 005D of timestamp + 2173ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 2323ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 2323ms has this error msg:Missing Format
+Server Packet id: 0046 of timestamp + 2323ms has this error msg:Missing Format
+Server Packet id: 0049 of timestamp + 2323ms has this error msg:Missing Format
+Started to log new Session (ID: 664364393)
+Server Packet id: 007D of timestamp + 16109ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0058 of timestamp + 16258ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 16506ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 16852ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 16877ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0028 of timestamp + 17027ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 17278ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 17578ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 17578ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 17578ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 17578ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 17628ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 17829ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 18029ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 18229ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0038 of timestamp + 18574ms has this error msg:Insuficient data for the specified format
+done in: 20 ms
+done in: 19 ms
+done in: 21 ms
+done in: 24 ms
+done in: 27 ms
+done in: 24 ms
+ClientPacket id: 0004 of timestamp + 240178ms has this error msg:Error: no such case: 4 for (Switch SwitchPart - id:0) in [1B2 CM_ATREIAN_PASSPORT]
+done in: 189 ms
+done in: 104 ms
+done in: 9 ms
+done in: 195 ms
+done in: 12 ms
+WARNING: Missing style for partType: Ss
+done in: 16 ms
+done in: 15 ms
+ClientPacket id: 0012 of timestamp + 1485233ms has this error msg:Missing Format
+Started to log new Session (ID: 104392314)
+Started to log new Session (ID: 104470236)
+LoginCrypter : Wrong checksum (packet id: 7, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 11, dir:serverPacket)
+ClientPacket id: 0012 of timestamp + 316ms has this error msg:Missing Format
+LoginCrypter : Wrong checksum (packet id: 3, dir:serverPacket)
+LoginCrypter : Wrong checksum (packet id: 5, dir:clientPacket)
+LoginCrypter : Wrong checksum (packet id: 4, dir:serverPacket)
+ERROR: Parsing packet (SM_SERVER_LIST), insuficient data for the specified format. Please verify the format.
+Server Packet id: 0009 of timestamp + 578ms has this error msg:Insuficient data for the specified format
+LoginCrypter : Wrong checksum (packet id: 7, dir:serverPacket)
+Started to log new Session (ID: 385809193)
+Invalid Static Client Packet Code!!!
+Server Packet id: 004D of timestamp + 983ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 79817ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 79817ms has this error msg:Missing Format
+Server Packet id: 005D of timestamp + 81048ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 81198ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 81641ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 81641ms has this error msg:Missing Format
+Server Packet id: 0046 of timestamp + 81641ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 81641ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 81641ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 81641ms has this error msg:Missing Format
+Server Packet id: 0049 of timestamp + 81642ms has this error msg:Missing Format
+Server Packet id: 0043 of timestamp + 91181ms has this error msg:Missing Format
+New npc data: NpcStat [npcId=806090, lvl=80, hp=270549, titleId=467447, npcType=38]
+npc: 806090 changed Hp from 311131 to 270549
+New npc data: NpcStat [npcId=833253, lvl=69, hp=19191, titleId=0, npcType=38]
+npc: 833253 changed Hp from 21364 to 19191
+npc: 833253 changed level from 72 to 69
+New npc data: NpcStat [npcId=833255, lvl=67, hp=9502, titleId=0, npcType=38]
+npc: 833255 changed Hp from 11833 to 9502
+npc: 833255 changed level from 71 to 67
+New npc data: NpcStat [npcId=833341, lvl=58, hp=11252, titleId=0, npcType=38]
+npc: 833341 changed Hp from 10281 to 11252
+New npc data: NpcStat [npcId=806000, lvl=80, hp=169133, titleId=358072, npcType=38]
+npc: 806000 changed Hp from 194502 to 169133
+New npc data: NpcStat [npcId=833253, lvl=68, hp=19127, titleId=0, npcType=38]
+npc: 833253 changed Hp from 19191 to 19127
+npc: 833253 changed level from 69 to 68
+New npc data: NpcStat [npcId=805992, lvl=80, hp=194502, titleId=350417, npcType=38]
+npc: 805992 changed Hp from 169133 to 194502
+Server Packet id: 007D of timestamp + 95643ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0058 of timestamp + 96087ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 97788ms has this error msg:Missing Format
+Started to log new Session (ID: 508701193)
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 98191ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 98191ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0028 of timestamp + 98735ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 98757ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 98906ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 98907ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 99056ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 99056ms has this error msg:Insuficient data for the specified format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 99056ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 99058ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 99204ms has this error msg:Missing Format
+Server Packet id: 007D of timestamp + 99405ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0038 of timestamp + 100015ms has this error msg:Insuficient data for the specified format
+done in: 58 ms
+done in: 5 ms
+done in: 4 ms
+Server Packet id: 0088 of timestamp + 272242ms has this error msg:Error size is too big (2462) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Server Packet id: 0088 of timestamp + 273044ms has this error msg:Error size is too big (13922) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+done in: 6 ms
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 0088 of timestamp + 569920ms has this error msg:Error size is too big (14602) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Server Packet id: 0088 of timestamp + 571109ms has this error msg:Error size is too big (31733) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 0088 of timestamp + 673757ms has this error msg:Error size is too big (10461) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Server Packet id: 0088 of timestamp + 674561ms has this error msg:Error size is too big (12067) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+New npc data: NpcStat [npcId=833249, lvl=74, hp=5379, titleId=0, npcType=38]
+npc: 833249 changed Hp from 7804 to 5379
+npc: 833249 changed level from 73 to 74
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+New npc data: NpcStat [npcId=833257, lvl=68, hp=10549, titleId=0, npcType=38]
+npc: 833257 changed Hp from 12139 to 10549
+npc: 833257 changed level from 67 to 68
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+Add new npc skill: NpcSkillTemplate [skillid=22038, skilllevel=1]
+done in: 159 ms
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+done in: 8 ms
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 0088 of timestamp + 922322ms has this error msg:Error size is too big (16168) for For (Part Name: null - Id: 2) in [2B SM_CASTSPELL_END]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+done in: 167 ms
+done in: 8 ms
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+ClientPacket id: 00C2 of timestamp + 1091960ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+done in: 25 ms
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+done in: 190 ms
+done in: 10 ms
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+done in: 266 ms
+done in: 12 ms
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 004B of timestamp + 1439863ms has this error msg:Missing Format
+Server Packet id: 004B of timestamp + 1443743ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 004B of timestamp + 1445482ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 004B of timestamp + 1449438ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 004B of timestamp + 1451210ms has this error msg:Missing Format
+Server Packet id: 004B of timestamp + 1455354ms has this error msg:Missing Format
+Server Packet id: 004B of timestamp + 1456928ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Server Packet id: 004B of timestamp + 1460880ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Server Packet id: 004B of timestamp + 1462456ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17078, skilllevel=65]
+Server Packet id: 004B of timestamp + 1466401ms has this error msg:Missing Format
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+Add new npc skill: NpcSkillTemplate [skillid=17230, skilllevel=65]
+done in: 251 ms
+done in: 12 ms
+ClientPacket id: 0012 of timestamp + 1388307ms has this error msg:Missing Format
+Server Packet id: 004D of timestamp + 1488513ms has this error msg:Missing Format
+Server Packet id: 005D of timestamp + 1496851ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 1496851ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 1497199ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 1497199ms has this error msg:Missing Format
+Server Packet id: 0046 of timestamp + 1497199ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 1497199ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 1497199ms has this error msg:Missing Format
+Server Packet id: 0047 of timestamp + 1497199ms has this error msg:Missing Format
+Server Packet id: 0049 of timestamp + 1497199ms has this error msg:Missing Format
+Started to log new Session (ID: 516361461)
+Server Packet id: 007D of timestamp + 1511971ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0058 of timestamp + 1512264ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 1512264ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0020 of timestamp + 1512557ms has this error msg:Insuficient data for the specified format
+Server Packet id: 007D of timestamp + 1513448ms has this error msg:Missing Format
+ERROR: Parsing packet (CM_GAMEGUARD), insuficient data for the specified format. Please verify the format.
+ClientPacket id: 0028 of timestamp + 1513596ms has this error msg:Insuficient data for the specified format
+done in: 328 ms
+done in: 13 ms
+done in: 14 ms
+done in: 436 ms
