@@ -10,7 +10,7 @@ You need:
 1b. Reboot your PC
 2. extract PacketSamurai
 3. start PacketSamurai with start.bat
-4. start AionEU 5.x Client and log in using your UserName and Password on the Official Gameforge Server
+4. start AionEU/US Client and log in using your UserName and Password on the Official Gameforge Server
 
 You can use the Tool for:
 - export Spawns
